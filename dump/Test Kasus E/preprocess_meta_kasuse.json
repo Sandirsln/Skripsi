@@ -1,0 +1,19 @@
+{
+  "sr_hz": 50,
+  "window_sec": 2.0,
+  "window_size": 100,
+  "step": 100,
+  "lpf_cutoff_hz": 5.0,
+  "lpf_order": 4,
+  "feature_order": [
+    "accX",
+    "accY",
+    "accZ",
+    "gyroX",
+    "gyroY",
+    "gyroZ"
+  ],
+  "test_per_class": 30,
+  "val_per_class": 40,
+  "normalization": "none"
+}

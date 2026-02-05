@@ -1,0 +1,67 @@
+--- MODEL A_1_Quant_ESP32 ---
+Sketch uses 369031 bytes (28%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 29032 bytes (8%) of dynamic memory, leaving 298648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL A_2_Quant_ESP32 ---
+Sketch uses 369895 bytes (28%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 29032 bytes (8%) of dynamic memory, leaving 298648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL A_3_Quant_ESP32 ---
+Sketch uses 372471 bytes (28%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 29032 bytes (8%) of dynamic memory, leaving 298648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL A_4_Quant_ESP32 ---
+Sketch uses 383927 bytes (29%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 29032 bytes (8%) of dynamic memory, leaving 298648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+
+--- MODEL B_1_Quant_ESP32 ---
+Sketch uses 369019 bytes (28%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 29032 bytes (8%) of dynamic memory, leaving 298648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL B_2_Quant_ESP32 ---
+Sketch uses 369883 bytes (28%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 29032 bytes (8%) of dynamic memory, leaving 298648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL B_3_Quant_ESP32 ---
+Sketch uses 372459 bytes (28%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 29032 bytes (8%) of dynamic memory, leaving 298648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL B_4_Quant_ESP32 ---
+Sketch uses 383899 bytes (29%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 29032 bytes (8%) of dynamic memory, leaving 298648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+
+--- MODEL C_1_Quant_ESP32 ---
+Sketch uses 380615 bytes (29%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 33032 bytes (10%) of dynamic memory, leaving 294648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL C_2_Quant_ESP32 ---
+Sketch uses 381623 bytes (29%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 33032 bytes (10%) of dynamic memory, leaving 294648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL C_3_Quant_ESP32 ---
+Sketch uses 384471 bytes (29%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 33032 bytes (10%) of dynamic memory, leaving 294648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL C_4_Quant_ESP32 ---
+Sketch uses 396487 bytes (30%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 33032 bytes (10%) of dynamic memory, leaving 294648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+
+--- MODEL D_1_Quant_ESP32 ---
+Sketch uses 385023 bytes (29%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 33032 bytes (10%) of dynamic memory, leaving 294648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL D_2_Quant_ESP32 ---
+Sketch uses 386063 bytes (29%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 33032 bytes (10%) of dynamic memory, leaving 294648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL D_3_Quant_ESP32 ---
+Sketch uses 388959 bytes (29%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 33032 bytes (10%) of dynamic memory, leaving 294648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0
+--- MODEL D_4_Quant_ESP32 ---
+Sketch uses 401039 bytes (30%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 33032 bytes (10%) of dynamic memory, leaving 294648 bytes for local variables. Maximum is 327680 bytes.
+esptool v5.1.0

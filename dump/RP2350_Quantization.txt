@@ -1,0 +1,153 @@
+--- MODEL: A_1_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 295908 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 26056 bytes (4%) of dynamic memory, leaving 498232 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 638464, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 638464 bytes to E:/NEW.UF2
+--- MODEL: A_2_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 296780 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 26056 bytes (4%) of dynamic memory, leaving 498232 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 640512, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 640512 bytes to E:/NEW.UF2
+--- MODEL: A_3_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 299356 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 26056 bytes (4%) of dynamic memory, leaving 498232 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 645632, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 645632 bytes to E:/NEW.UF2
+--- MODEL: A_4_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 310804 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 26056 bytes (4%) of dynamic memory, leaving 498232 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 668672, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 668672 bytes to E:/NEW.UF2
+
+--- MODEL: B_1_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 295556 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 26056 bytes (4%) of dynamic memory, leaving 498232 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 637952, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 637952 bytes to E:/NEW.UF2
+
+--- MODEL: B_2_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 296420 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 26056 bytes (4%) of dynamic memory, leaving 498232 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 639488, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+
+Wrote 639488 bytes to E:/NEW.UF2
+--- MODEL: B_3_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 298988 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 26056 bytes (4%) of dynamic memory, leaving 498232 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 644608, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 644608 bytes to E:/NEW.UF2
+
+--- MODEL: B_4_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 310428 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 26056 bytes (4%) of dynamic memory, leaving 498232 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 667648, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 667648 bytes to E:/NEW.UF2
+
+--- MODEL: C_1_Int_RP2350 ---
+Sketch uses 301868 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 32200 bytes (6%) of dynamic memory, leaving 492088 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 650752, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 650752 bytes to E:/NEW.UF2
+
+--- MODEL: C_2_Int_RP2350 ---
+Sketch uses 302876 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 32200 bytes (6%) of dynamic memory, leaving 492088 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 652800, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 652800 bytes to E:/NEW.UF2
+
+--- MODEL: C_3_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 305380 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 32200 bytes (6%) of dynamic memory, leaving 492088 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 657408, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 657408 bytes to E:/NEW.UF2
+
+--- MODEL: C_4_Int_RP2350 ---
+Sketch uses 317748 bytes (15%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 32200 bytes (6%) of dynamic memory, leaving 492088 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 682496, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 682496 bytes to E:/NEW.UF2
+
+--- MODEL: D_1_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 305084 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 37320 bytes (7%) of dynamic memory, leaving 486968 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 656896, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 656896 bytes to E:/NEW.UF2
+
+--- MODEL: D_2_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 306124 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 37320 bytes (7%) of dynamic memory, leaving 486968 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 658944, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 658944 bytes to E:/NEW.UF2
+
+--- MODEL: D_3_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 309012 bytes (14%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 37320 bytes (7%) of dynamic memory, leaving 486968 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 665088, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 665088 bytes to E:/NEW.UF2
+
+--- MODEL: D_4_Int_RP2350 ---
+WARNING: library Chirale_TensorFLowLite claims to run on mbed_nano, esp32, mbed_nicla, mbed_portenta, mbed_giga architecture(s) and may be incompatible with your current board which runs on rp2040 architecture(s).
+Sketch uses 321092 bytes (15%) of program storage space. Maximum is 2088960 bytes.
+Global variables use 37320 bytes (7%) of dynamic memory, leaving 486968 bytes for local variables. Maximum is 524288 bytes.
+Resetting COM3
+Converting to uf2, output size: 689152, start address: 0x2000
+Scanning for RP2040 devices
+Flashing E: (RP2350)
+Wrote 689152 bytes to E:/NEW.UF2
